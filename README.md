@@ -1,4 +1,4 @@
-### ✨ ✨ ✨ Welcome to my cosmos ✨ ✨ ✨
+### ✨ ✨ ✨ Welcome to my Cosmos ✨ ✨ ✨
 
 <!--
 **Noahtyr/Noahtyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
