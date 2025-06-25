@@ -1,5 +1,5 @@
 <h1 align="center"> ✨ ✨ ✨ Welcome to my Cosmos ✨ ✨ ✨ </h1>
-<a style="margin:auto" href="https://app.daily.dev/juaquin"><img src="https://api.daily.dev/devcards/v2/PtUDmPpyWZYbUQSxKm9Ty.png?r=ub0&type=wide" width="652" alt="Juaquin's Dev Card"/></a><!--
+<a style="margin:auto" href="https://app.daily.dev/juaquin"><img src="https://api.daily.dev/devcards/v2/PtUDmPpyWZYbUQSxKm9Ty.png?r=ub0&type=wide" width="100%" alt="Juaquin's Dev Card"/></a><!--
 **Noahtyr/Noahtyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
