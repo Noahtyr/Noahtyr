@@ -1,6 +1,6 @@
 <h1 align="center"> ✨ ✨ ✨ Welcome to my Cosmos ✨ ✨ ✨ </h1>
 
-<a style="margin:auto" href="https://app.daily.dev/juaquin"><img src="https://api.daily.dev/devcards/v2/PtUDmPpyWZYbUQSxKm9Ty.png?r=ub0&type=wide" width="100%" alt="Juaquin's Dev Card"/></a>
+<a style="margin:auto" href="https://app.daily.dev/juaquin"><img src="./devcard.png" width="100%" alt="Juaquin's Dev Card"/></a>
 
 
 <h2>Github contributions</h2>
