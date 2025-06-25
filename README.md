@@ -2,6 +2,8 @@
 <a style="margin:auto" href="https://app.daily.dev/juaquin"><img src="https://api.daily.dev/devcards/v2/PtUDmPpyWZYbUQSxKm9Ty.png?r=ub0&type=wide" width="100%" alt="Juaquin's Dev Card"/></a><!--
 **Noahtyr/Noahtyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
