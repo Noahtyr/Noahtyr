@@ -1,6 +1,6 @@
 <h1 align="center"> ✨ ✨ ✨ Welcome to my Cosmos ✨ ✨ ✨ </h1>
 
-<div align="center>
+<div align="center">
   <a style="display:flex; justify-content:center; width: 100%" href="https://app.daily.dev/juaquin">
     <img src="./devcard.png?type=wide&r=3ub" width="356" alt="Juaquin's Dev Card"/>
   </a>
